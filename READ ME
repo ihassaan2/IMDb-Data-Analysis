@@ -1,0 +1,5 @@
+Here I've ingested  data in Excel Pivot tables and performed ETL to remove outliers, clean up bad records, normalize revenue numbers by using advanced
+formatting options. 
+•Found the most profitable movies by genre and country by creating custom fields which calculated the net profit
+•Created custom field for profit margins calculations and displayed this in a simplified line chart etc.
+•Used Excel Charts to build various visualizations and a dashboard that showed interesting insights into the data.
